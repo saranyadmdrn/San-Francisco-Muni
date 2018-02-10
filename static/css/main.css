@@ -1,0 +1,21 @@
+tr {
+width: 100%;
+display: inline-table;
+}
+
+table{
+ height:500px; 
+}
+
+tbody{
+  overflow-y: scroll;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.preloader {
+    padding: 50px;
+    background: url('../img/preloader.gif') no-repeat 50% 50% transparent;
+}
+
